@@ -1,7 +1,7 @@
 - 👋 Hi, I’m souvik_sardar
 - 👀 I’m interested in Business insides reporting.
 - 🌱 I’m currently learning Business Analytics.
-- 💞️ I’m looking forward to learn and be part of the analytical coding community.
+- 💞️ I have completed M.B.A in marketing 
 - 📫 mail me: sardarsouvik07@gmail.com
 
 <!---
